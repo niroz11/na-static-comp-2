@@ -378,23 +378,6 @@ span{
 	padding-bottom: 0px;
 }
 
-.line-space hr {
-    overflow: visible; /* For IE */
-    padding: 0 ;
-    border: none;
-    border-top: medium double #333;
-    color: #333;
-    text-align: center;
-}
-.line-space hr:after {
-    content: "§";
-    display: inline-block;
-    position: relative;
-    top: -0.7em;
-    font-size: 1.5em;
-    padding: 50px;
-    background: white;
-}
 @media screen and (max-width: 1371px) {
   .graph-text{
   	width:27%;
