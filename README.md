@@ -18,7 +18,7 @@
 
 
 ## Screenshot of final copy of static-comp2
-![finished version](static-comp.png )
+![finished version](../images/static-comp.png )
 
 
 
